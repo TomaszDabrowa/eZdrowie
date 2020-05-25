@@ -34,6 +34,11 @@ Pobierając zawartość niniejszego repozytorium, zgadzasz się na warunki licen
 eZdrowie wypuszczane jest na zmodyfikowanej licencji MIT, której treść można znaleźć
 w pliku license.txt (z przyczyn technicznych bez polskich znaków diakrytycznych).
 
+# Pobieranie
+Celem zainstalowania programu należy wybrać "Clone or download", pobrać paczkę ZIP,
+a następnie wypakować jej zawartość w wybranym przez siebie miejscu.
+Aplikacja nie wymaga instalacji.
+
 # Wersja
 Aktualną wersję aplikacji eZdrowie zawsze można sprawdzić w pliku version.txt.
 W przyszłości planowana jest wbudowana funkcja sprawdzająca dostępność nowej wersji.

@@ -38,6 +38,8 @@ w pliku license.txt (z przyczyn technicznych bez polskich znaków diakrytycznych
 Celem zainstalowania programu należy wybrać "Clone or download", pobrać paczkę ZIP,
 a następnie wypakować jej zawartość w wybranym przez siebie miejscu.
 Aplikacja nie wymaga instalacji.
+Aplikacja w chwili obecnej wymaga bibliotek WinAPI, toteż prawidłowo będzie działać
+tylko i wyłącznie na sprzęcie z systemem operacyjnym Windows.
 
 # Wersja
 Aktualną wersję aplikacji eZdrowie zawsze można sprawdzić w pliku version.txt.

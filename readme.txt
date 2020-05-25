@@ -11,5 +11,5 @@ Aplikacja umozliwia rowniez zrobienie kopii zapasowej danych z wszystkich profil
 Aplikacja dostepna jest tylko na system operacyjny Windows.
 
 Autor oprogramowania,
-TDomek,
+Tomasz Dabrowa,
 zyczy przyjemnego uzywania aplikacji.

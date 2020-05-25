@@ -1,11 +1,27 @@
-Copyright 2020 TDomek
+Copyright 2020 Tomasz Dabrowa
 
-Niniejszym udziela sie bezplatnie kazdej osobie, ktora otrzymuje kopie tego oprogramowania i powiazanych plikow dokumentacji (<<Oprogramowanie>>), do czynienia z Oprogramowaniem bez ograniczen, w tym miedzy innymi prawa do uzywania, kopiowania, modyfikowania, laczenia , publikowania, rozpowszechniania, udzielania podlicencji i / lub sprzedawania kopii Oprogramowania oraz zezwalania na to osobom, ktorym Oprogramowanie zostalo dostarczone, z zastrzezeniem nastepujacych warunkow:
+Niniejszym udziela sie bezplatnie kazdej osobie, ktora otrzymuje
+kopie tego oprogramowania i powiazanych plikow dokumentacji 
+(<<Oprogramowanie>>), do czynienia z Oprogramowaniem bez ograniczen,
+w tym miedzy innymi prawa do uzywania, kopiowania, modyfikowania,
+laczenia , publikowania, rozpowszechniania, udzielania podlicencji
+i / lub sprzedawania kopii Oprogramowania oraz zezwalania na to 
+osobom, ktorym Oprogramowanie zostalo dostarczone, z zastrzezeniem
+nastepujacych warunkow:
 
-Powyzsza informacja o prawach autorskich i niniejsza informacja o pozwoleniu beda zawarte we wszystkich kopiach lub znacznych czesciach Oprogramowania.
+Powyzsza informacja o prawach autorskich i niniejsza informacja
+o pozwoleniu beda zawarte we wszystkich kopiach lub znacznych 
+czesciach Oprogramowania.
 
 Autor nie bierze zadnej odpowiedzialnosci za dzialanie programu
-i ewentualne szkody wynikle z niego, lecz program byl 
-testowany i nie powinno byc w nim zadnych bledow.
+i ewentualne szkody wynikle z niego.
 
-OPROGRAMOWANIE JEST DOSTARCZANE <<W STANIE, W JAKIM JEST>>, W TYM BEZ ZADNEJ GWARANCJI WYRAZNEJ LUB DOROZUMIANEJ, ALE NIE OGRANICZONE DO GWARANCJI PRZYDATNOSCI HANDLOWEJ, PRZYDATNOSCI DO OKRESLONEGO CELU I NARUSZENIA. W ZADNYM WYPADKU AUTORZY LUB POSIADACZE PRAW AUTORSKICH NIE PONOSZA ODPOWIEDZIALNOSCI ZA JAKIEKOLWIEK ROSZCZENIE, SZKODY LUB INNE ODPOWIEDZIALNOSCI, NAWET W DZIALANIU UMOWY, CZYNNOSCI NIEDOZWOLONYCH LUB INNYCH INNYCH DZIALALNOSCI, WYNIKAJACYCH Z, LUB W ZWIAZKU Z OPROGRAMOWANIEM LUB WYKORZYSTANIEM LUB INNYCH OKRESLEN OPROGRAMOWANIA.
+OPROGRAMOWANIE JEST DOSTARCZANE <<W STANIE, W JAKIM JEST>>, W TYM 
+BEZ ZADNEJ GWARANCJI WYRAZNEJ LUB DOROZUMIANEJ, ALE NIE OGRANICZONE
+DO GWARANCJI PRZYDATNOSCI HANDLOWEJ, PRZYDATNOSCI DO OKRESLONEGO CELU
+I NARUSZENIA. W ZADNYM WYPADKU AUTORZY LUB POSIADACZE PRAW AUTORSKICH 
+NIE PONOSZA ODPOWIEDZIALNOSCI ZA JAKIEKOLWIEK ROSZCZENIE, SZKODY LUB 
+INNE ODPOWIEDZIALNOSCI, NAWET W DZIALANIU UMOWY, CZYNNOSCI
+NIEDOZWOLONYCH LUB INNYCH INNYCH DZIALALNOSCI, WYNIKAJACYCH Z,
+LUB WZWIAZKU Z OPROGRAMOWANIEM LUB WYKORZYSTANIEM LUB INNYCH OKRESLEN
+OPROGRAMOWANIA.
